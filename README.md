@@ -1,2 +1,2 @@
-# Project---Map-my-world
+# Project-Mapmyworld
 Map my world
