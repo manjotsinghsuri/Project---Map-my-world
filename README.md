@@ -30,12 +30,22 @@ Map my world
 
 ```rtabmap-databaseViewer ~/.ros/rtabmap.db```
 
-### Link of my database file that I ran 
+## Link of my database file that I ran 
 
 [Link to Database File](https://drive.google.com/drive/u/1/folders/1iM0sXSG0xASxOTIygKWvLfBA_mYBxYY_)
 
+## Images of my database file that I ran
 
-![alt text](https://github.com/manjotsinghsuri/Project-Mapmyworld/blob/main/ImageFiles/DatabaseReviewerWithOccupancyGrid.png "DatavaseReviewer")
+## Map in Database Review
+
+![alt text](https://github.com/manjotsinghsuri/Project-Mapmyworld/blob/main/ImageFiles/DatabaseReviewer.png "DatabaseReview")
 
 
+## Database review with Graph view, Constraints view and Occupancy grid
+
+![alt text](https://github.com/manjotsinghsuri/Project-Mapmyworld/blob/main/ImageFiles/DatabaseReviewerWithOccupancyGrid.png "Database Reviewer with views")
+
+## 3-D View of the Map created
+
+![alt text](https://github.com/manjotsinghsuri/Project-Mapmyworld/blob/main/ImageFiles/3DView.png "3D View")
 
