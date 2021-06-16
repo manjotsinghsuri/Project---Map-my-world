@@ -24,11 +24,8 @@ Map my world
     ```roslaunch my_robot localization.launch```
 
 * ### For moving robot in the world for doing mapping 
-    ```rosrun teleop_twist_keyboard teleop_twist_keyboard.py```
+    ```roslaunch my_robot teleop.launch```
     
-    or 
-    
-    ```rosrun my_robot teleop_twist_keyboard.py```
 
 ### So after mapping the environment, viewing the database file, run
 
